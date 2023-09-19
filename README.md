@@ -3,8 +3,6 @@
 The goal of this repository is to explore various Explainable AI (XAI) methods on models trained on an classification task on the UCI ML - Statlog (Heart) Data Set.
 
 
-![Project Logo or Banner Image](project_banner.png)
-
 ## Description
 
 "Unveiling the Black Box" is a comprehensive exploration of Explainable Artificial Intelligence (XAI) methods applied to machine learning models. In this project, we aim to shed light on the inner workings of machine learning models and enhance their interpretability. We focus on the Statlog (Heart) Data Set, leveraging XAI techniques to understand and explain model predictions related to heart disease diagnosis. 
@@ -90,7 +88,7 @@ Contributions to this project are welcome. To report issues, suggest improvement
 ## Authors
 
 - **Manai Mortadha**
-  - GitHub: [github.com/yourusername](https://github.com/yMortadhaMannai)
+  - GitHub: [https://github.com/MortadhaMannai)
   - LinkedIn: [https://www.linkedin.com/in/mannai-mortadha/)
   - Email: mannaimortadha898@gmail.com
 
